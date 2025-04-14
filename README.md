@@ -32,7 +32,7 @@ Die App erlaubt es, aus vordefinierten oder benutzerdefinierten Moods zu wählen
 
 | Mood-Auswahl | Mood-Detail | Stimmung planen |
 |--------------|-------------|------------------|
-| (preview1.png) | (preview2.png) | (preview3.png) |
+| ![Mood-Auswahl](assets/preview1/preview1.png) | ![Mood-Detail](assets/preview2/preview2.png) | ![Stimmung planen](assets/preview3/preview3.png) |
 
 ---
 
