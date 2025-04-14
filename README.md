@@ -32,7 +32,7 @@ Die App erlaubt es, aus vordefinierten oder benutzerdefinierten Moods zu wählen
 
 | Mood-Auswahl | Mood-Detail | Stimmung planen |
 |--------------|-------------|------------------|
-| ![Mood-Auswahl](preview1.png) | ![Detail](preview2.png) | ![Planung](preview3.png) |
+| (preview1.png) | (preview2.png) | (preview3.png) |
 
 ---
 
@@ -94,7 +94,7 @@ MoodLight/
 
 > 📧 **Kevin Schubert**  
 > 📍 Monschau / 01.07.2025 / Remote (wenn möglich auch vor Ort) 
-> 💼 GitHub: [github.com/deinname](https://github.com/deinname)  
+> 💼 GitHub: (https://github.com/KevinSchubert98)  
 
 
 ---
